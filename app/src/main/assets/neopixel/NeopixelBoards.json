@@ -1,5 +1,11 @@
 [
   {
+    "height": 8,
+    "stride": 8,
+    "width": 24,
+    "name": "24x8"
+  },
+  {
     "height": 4,
     "stride": 8,
     "width": 8,
